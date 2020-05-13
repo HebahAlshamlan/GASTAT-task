@@ -2,7 +2,33 @@
 Case interview for Data Scientist
 
 
-[Soon]
+Not completed yet[Soon]
+
+# Dataset
+Tamimi markets products
+
+## Metadata
+
+| # of records | 16K |
+| ------- | --- | 
+| Collecting Time | May2020 |
+|  Max Price | 699.95 | 
+| Min Price | 0.25 |
+| Avg Price | 22.8 |
+|# of fetchers | 9 |
+### fetchers
+
+- Created time (Date)
+- brand (Nomnal)
+- Product Name (Nomnal)
+- Product Variant (Nomnal)
+- Category (Nomnal)
+- General Category (Nomnal)
+- Class (Nomnal)
+- Super Class (Nomnal)
+- Discount (Numeric)
+- VAT (Numeric)
+- Price (Numeric)
 
 # Consumer Price Index (CPI)
 is a measure that examines the weighted average of prices of a basket of consumer goods and services, such as transportation, food, and medical care. It is calculated by taking price changes for each item in the predetermined basket of goods and averaging them. Changes in the CPI are used to assess price changes associated with the cost of living. The CPI is one of the most frequently used statistics for identifying periods of inflation or deflation.
