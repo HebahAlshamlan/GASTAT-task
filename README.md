@@ -13,8 +13,8 @@ Tamimi markets products
 |  Max Price | 699.95 | 
 | Min Price | 0.25 |
 | Avg Price | 22.8 |
-|# of fetchers | 11 |
-#### fetchers
+|# of Features | 11 |
+#### Features
 
 - Created time (Date)
 - brand (Nominal)
