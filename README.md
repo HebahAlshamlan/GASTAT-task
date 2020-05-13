@@ -17,15 +17,15 @@ Basically it's calculate the change rate between two period of time
 
 # Pipeline 
 for simplicity I try to collect the data only from Timimi market, becouse collecting data from multiple resorces and try to do ether Web Scraping or Use their API's time-consuming. 
-[X]coullect the data for April and March
-[X] Preprocssing 
-  [X] Cleaning
-    [X]Noise data
-    [X] Misspell
-    [X] Duplicates
-    [X] Outliers
-  [X] Missing Value
-    [X] Think of the best approch &Read the litrecher
-    [X] Search for a reliable source
-    [X] Collecte manually
-    
+- [X] coullect the data for April and March
+- [X] Preprocssing 
+  - [X] Cleaning
+    - [X] Noise data
+    - [X] Misspell
+    - [X] Duplicates
+    - [X] Outliers
+   - [X] Missing Value
+      - [X] Think of the best approch &Read the litrecher
+      - [X] Search for a reliable source
+      - [X] Collecte manually
+
