@@ -7,7 +7,7 @@ Not completed yet[Soon]
 # Dataset
 Tamimi markets products
 
-## Metadata
+### Metadata
 
 | # of records | 16K |
 | ------- | --- | 
@@ -16,7 +16,7 @@ Tamimi markets products
 | Min Price | 0.25 |
 | Avg Price | 22.8 |
 |# of fetchers | 11 |
-### fetchers
+#### fetchers
 
 - Created time (Date)
 - brand (Nomnal)
