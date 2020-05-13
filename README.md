@@ -42,7 +42,8 @@ Basically it's calculate the change rate between two period of time
 
 
 # Pipeline 
-for simplicity I try to collect the data only from Timimi market, becouse collecting data from multiple resorces and try to do ether Web Scraping or Use their API's time-consuming. 
+for simplicity I try to collect the data only from Timimi market, becouse collecting data from multiple resorces and try to do ether Web Scraping or Use their API's time-consuming.
+- [X] Read and understand the concept
 - [X] coullect the data for April and March
 - [X] Preprocssing 
   - [X] Cleaning
