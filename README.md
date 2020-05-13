@@ -2,8 +2,6 @@
 Case interview for Data Scientist
 
 
-Not completed yet[Soon]
-
 # Dataset
 Tamimi markets products
 
