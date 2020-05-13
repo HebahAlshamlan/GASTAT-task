@@ -40,13 +40,13 @@ Basically it calculate the change rate between two period of time
 
 
 # Pipeline 
-for simplicity I try to collect the data only from Timimi market, because collecting data from multiple resorces and try to do either Web Scraping or Use their API's it's a time-consuming.
+for simplicity I try to collect the data only from Timimi market, because collecting data from multiple resorces and trying to do either Web Scraping or Use their API's it's a time-consuming.
 - [X] Read and understand the concept
 - [X] collect the data for April and March
 - [X] Preprocssing 
   - [X] Cleaning
     - [X] Noise data
-    - [X] Misspell
+    - [X] Misspelling 
     - [X] Duplicates
     - [X] Outliers
    - [X] Missing Value
