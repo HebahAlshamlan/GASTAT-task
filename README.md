@@ -27,5 +27,9 @@ for simplicity I try to collect the data only from Timimi market, becouse collec
    - [X] Missing Value
       - [X] Think of the best approch &Read the litrecher
       - [X] Search for a reliable source
-      - [X] Collecte manually
+      - [X] Collecteing manually
+ - [X] implemantion
+    - [X] CPI formula
+    - [X] Monthly change
+  
 
