@@ -69,8 +69,8 @@ for simplicity I try to collect the data only from Timimi market, because collec
 - Preprocessing
   - Excel
   - Weka
-  - python
+  - Python
 - implementation
-  - python
+  - Python
 - ML Models and plots
   - Weka
