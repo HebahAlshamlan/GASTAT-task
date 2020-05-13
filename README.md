@@ -15,7 +15,7 @@ Tamimi markets products
 |  Max Price | 699.95 | 
 | Min Price | 0.25 |
 | Avg Price | 22.8 |
-|# of fetchers | 9 |
+|# of fetchers | 11 |
 ### fetchers
 
 - Created time (Date)
@@ -62,3 +62,16 @@ for simplicity I try to collect the data only from Timimi market, becouse collec
 - Customer price index of April 2020
 - The percentage change in the index section Housing and its descendants
 - The percentage change in the index section food and beverage
+
+# Technologies and languages used
+- Gathering data :
+  - Go
+  - Python
+- Preprocessing
+  - Excel
+  - Weka
+  - python
+- implementation
+  - python
+- ML Models and plots
+  - Weka
