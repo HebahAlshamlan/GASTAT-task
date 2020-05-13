@@ -28,8 +28,11 @@ for simplicity I try to collect the data only from Timimi market, becouse collec
       - [X] Think of the best approch &Read the litrecher
       - [X] Search for a reliable source
       - [X] Collecteing manually
- - [X] implemantion
+ - [X] implementation
     - [X] CPI formula
     - [X] Monthly change
   
-
+# Outcomes (findings)
+- Customer price index of April 2020
+- The percentage change in the index section Housing and its descendants
+- The percentage change in the index section food and beverage
