@@ -70,7 +70,7 @@ for simplicity I try to collect the data only from Timimi market, because collec
   - Excel
   - Weka
   - Python
-- implementation
+- Implementation
   - Python
 - ML Models and plots
   - Weka
