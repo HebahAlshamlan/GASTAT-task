@@ -3,7 +3,7 @@ Case interview for Data Scientist
 
 
 # Dataset
-Tamimi markets products
+Tamimi markets products dataset
 
 ### Metadata
 
